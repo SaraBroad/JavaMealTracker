@@ -1,10 +1,8 @@
 package console;
-// import
 
-public class Category {
+public class MealTracker {
 
     public static void main(String[] args) {
-
 
 
     }
